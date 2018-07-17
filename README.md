@@ -1,4 +1,4 @@
-# FRN_App
+# RN_App
 
 ```Simple mobile app for plants recognition.```
 
